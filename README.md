@@ -5,4 +5,4 @@
 - 📫 +7 926 329-42-03 mihael.machulin@gmail.com
 
 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg|width=100" width="100px">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="100px">
