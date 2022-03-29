@@ -11,7 +11,7 @@
   <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="75px">
-  <img src="https://c.tenor.com/D61XbAM9d9MAAAAd/doom-doomguy.gif" width="75px">
+  <img src="https://c.tenor.com/D61XbAM9d9MAAAAd/doom-doomguy.gif" width="100px">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="75px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="75px">
