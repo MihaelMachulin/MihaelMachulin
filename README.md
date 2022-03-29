@@ -18,4 +18,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" width="75px">
+  <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="75px">
 </div>
