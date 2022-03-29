@@ -20,4 +20,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="75px">
+  <img src="https://e7.pngegg.com/pngimages/534/307/png-clipart-the-ultimate-doom-doomguy-gif-video-games-doom-game-face-thumbnail.png" width="75px">
 </div>
