@@ -11,7 +11,7 @@
   <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="75px">
-  <img src="https://papierlos-studieren.net/wp-content/uploads/2020/08/logo-fat-discord-666x525.png" width="75px">
+  <img src="https://img.stackshare.io/service/21247/default_38a315c27903a7e11d83084960ad5dee008c8549.png" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="75px">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="75px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="75px">
