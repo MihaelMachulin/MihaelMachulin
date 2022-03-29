@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on my pet-projects Vehi (Personal service book for drivers) & CReaM (Simple CRM for personal use)
 - 📫 +7 926 329-42-03 mihael.machulin@gmail.com
 
-[[https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg|width=100px]]
-![JS](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg|width=100))
+
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg|width=100" width="100px">
