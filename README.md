@@ -1,4 +1,4 @@
-<div style="background-color: red; width: 100px; height: 100px;" >1</div>
+<div style="background-color: red; width: 100px; height: 100px; color: orange;" >1</div>
 
 - 👋 Hi, I’m Mihael Machulin
 - 👀 I’m interested in Frontend development
