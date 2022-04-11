@@ -1,4 +1,4 @@
-<div style="background-color: orange;"></div>
+<div style="background-color: orange; width: 100px; height: 100px;" ></div>
 
 - 👋 Hi, I’m Mihael Machulin
 - 👀 I’m interested in Frontend development
