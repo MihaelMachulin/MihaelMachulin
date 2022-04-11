@@ -1,3 +1,6 @@
+<div style="color: red; font-size: 48; font-family: 'Verdana'; float: right; border: 1px dotted green">hello</div>
+<div color=red font="Verdana" border=10 fontsize=48px size=48px>hello</div>
+
 <div style="border: 1px; background-color: red; width: 100px; height: 100px; color: orange;" >1</div>
 
 - 👋 Hi, I’m Mihael Machulin
