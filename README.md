@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on my pet-projects Vehi (Personal service book for drivers) & CReaM (Simple CRM for personal use)
 - 📫 +7 926 329-42-03 mihael.machulin@gmail.com
 
-<code>👷 Speciality: Software engineer / Frontend</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
+<code>👷 Speciality: Software engineer / Frontend</code>
+<code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: MERN</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <!--
