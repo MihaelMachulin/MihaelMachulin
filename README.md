@@ -1,21 +1,22 @@
-- 👋 Hi, I’m Mihael Machulin
+<code> 👋 Hi, I’m Mihael Machulin </code>
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Javascript & React
-- 💞️ I’m looking to collaborate on my pet-projects Vehi (Personal service book for drivers) & CReaM (Simple CRM for personal use)
 - 📫 +7 926 329-42-03 mihael.machulin@gmail.com
 
 <code>👷 Speciality: Software engineer / Frontend</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: MERN</code>
-<code>💡 [Skills](skills.md)</code>
+<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
 <!--
+- 💞️ I’m looking to collaborate on my pet-projects Vehi (Personal service book for drivers) & CReaM (Simple CRM for personal use)
+<code>💡 [Skills](skills.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+
 -->
 
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
 <code>📫 [your-email](mailto:your-email)</code>
 
 <div>
