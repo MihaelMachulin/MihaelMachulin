@@ -1,10 +1,10 @@
 <code> 👋 Hi, I’m Mihael Machulin </code><br>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
-<code>🧑‍💻 Languages: JavaScript</code><br>
+<code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: MERN</code><br>
 <code>💬 telegram: [@MIM3D](https://telegram.me/MIM3D)</code>
 <code>📲 +7 926 329-42-03</code>
-<code>📫  mihael.machulin@gmail.com</code>
+<code>📫  [mihael.machulin@gmail.com](mailto:mihael.machulin@gmail.com)</code>
 
 
 <!--
@@ -14,9 +14,6 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 -->
-
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>📫 [your-email](mailto:your-email)</code>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="75px">
