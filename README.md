@@ -1,12 +1,12 @@
-<code> 👋 Hi, I’m Mihael Machulin </code>
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Javascript & React
-- 📫 +7 926 329-42-03 mihael.machulin@gmail.com
-
-<code>👷 Speciality: Software engineer / Frontend</code>
-<code>🧑‍💻 Languages: JavaScript</code>
+<code> 👋 Hi, I’m Mihael Machulin </code><br>
+<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>🧑‍💻 Languages: JavaScript</code><br>
 <code>📦 Tech stack: MERN</code>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@MIM3D](https://telegram.me/MIM3D)</code>
+<code>📲 +7 926 329-42-03</code>
+<code>📫  mihael.machulin@gmail.com</code>
+
+
 <!--
 - 💞️ I’m looking to collaborate on my pet-projects Vehi (Personal service book for drivers) & CReaM (Simple CRM for personal use)
 <code>💡 [Skills](skills.md)</code>
