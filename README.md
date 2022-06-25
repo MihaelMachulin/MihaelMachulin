@@ -3,8 +3,8 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: MERN</code><br>
 <code>💬 telegram: [@MIM3D](https://telegram.me/MIM3D)</code>
-<code>📲 [+7 926 329-42-03](tel:+7 926 329-42-0)</code>
-<code>📫  [mihael.machulin@gmail.com](mailto:mihael.machulin@gmail.com)</code>
+<code>📲 +7 926 329-42-03</code>
+<code>📫 [mihael.machulin@gmail.com](mailto:mihael.machulin@gmail.com)</code>
 
 
 <!--
