@@ -7,7 +7,7 @@
 <code>👷 Speciality: Software engineer / Frontend</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: MERN</code>
-<code>💡 [Skills](SKILLS.md)</code>
+<code>💡 [Skills](skills.md)</code>
 <!--
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
